@@ -4,7 +4,6 @@
     <title>LibreUFOP - Fontes Recomendadas</title>
     <ownerName>LibreUFOP</ownerName>
     <ownerEmail>libreufop@ufop.edu.br</ownerEmail>
-    <docs>https://lecompufop.github.io/LibreUFOP/</docs>
   </head>
 
   <body>
@@ -33,7 +32,7 @@
 
       <outline text="Debian News"
                type="rss"
-               xmlUrl="https://www.debian.org/News/news"
+               xmlUrl="https://www.debian.org/News/news.rss"
                htmlUrl="https://www.debian.org/News/" />
 
       <outline text="Fedora Magazine"
@@ -49,7 +48,7 @@
       <outline text="Linux Mint Blog"
                type="rss"
                xmlUrl="https://blog.linuxmint.com/?feed=rss2"
-               htmlUrl="https://www.linuxmint.com/" />
+               htmlUrl="https://blog.linuxmint.com/" />
 
       <outline text="BigLinux"
                type="rss"
@@ -59,49 +58,49 @@
       <outline text="openSUSE News"
                type="rss"
                xmlUrl="https://news.opensuse.org/feed/"
-               htmlUrl="https://www.opensuse.org/" />
+               htmlUrl="https://news.opensuse.org/" />
 
     </outline>
 
 
     <outline text="🖥️ Ambientes Gráficos">
 
-      <outline text="Planet GNOME"
+      <outline text="GNOME Planet"
                type="rss"
                xmlUrl="https://planet.gnome.org/rss20.xml"
                htmlUrl="https://planet.gnome.org/" />
 
-      <outline text="Planet KDE"
+      <outline text="KDE Planet"
                type="rss"
                xmlUrl="https://planet.kde.org/rss20.xml"
                htmlUrl="https://planet.kde.org/" />
 
-      <outline text="MATE Desktop"
+      <outline text="MATE Desktop Blog"
                type="rss"
-               xmlUrl="https://mate-desktop.com/blog/feed"
+               xmlUrl="https://mate-desktop.org/blog/feed/"
                htmlUrl="https://mate-desktop.org/" />
 
-      <outline text="Xfce News"
+      <outline text="Xfce Blog"
                type="rss"
-               xmlUrl="https://xfce.org/feed"
+               xmlUrl="https://blog.xfce.org/feed/"
                htmlUrl="https://xfce.org/" />
 
     </outline>
 
 
-    <outline text="⌨️ Gerenciadores de Janelas">
+    <outline text="⌨️ Window Managers">
 
-      <outline text="i3wm"
+      <outline text="i3wm News"
                type="rss"
                xmlUrl="https://i3wm.org/atom.xml"
                htmlUrl="https://i3wm.org/" />
 
-      <outline text="Sway"
+      <outline text="Sway Releases"
                type="rss"
                xmlUrl="https://github.com/swaywm/sway/releases.atom"
                htmlUrl="https://swaywm.org/" />
 
-      <outline text="Hyprland"
+      <outline text="Hyprland Releases"
                type="rss"
                xmlUrl="https://github.com/hyprwm/Hyprland/releases.atom"
                htmlUrl="https://hypr.land/" />
@@ -109,11 +108,11 @@
     </outline>
 
 
-    <outline text="💻 Open Source e Tecnologia">
+    <outline text="💻 Tecnologia & Open Source">
 
       <outline text="GitHub Blog"
                type="rss"
-               xmlUrl="https://github.blog/feed"
+               xmlUrl="https://github.blog/feed/"
                htmlUrl="https://github.blog/" />
 
       <outline text="The Verge"
@@ -128,12 +127,12 @@
 
       <outline text="OMG! Ubuntu"
                type="rss"
-               xmlUrl="https://www.omgubuntu.co.uk/feed"
+               xmlUrl="https://www.omgubuntu.co.uk/feed/"
                htmlUrl="https://www.omgubuntu.co.uk/" />
 
       <outline text="It's FOSS"
                type="rss"
-               xmlUrl="https://itsfoss.com/feed"
+               xmlUrl="https://itsfoss.com/feed/"
                htmlUrl="https://itsfoss.com/" />
 
     </outline>
